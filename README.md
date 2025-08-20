@@ -15,13 +15,13 @@ A clean and interactive to-do list built with React. Add, edit, delete, and chec
 - ❌ Delete tasks
 - ☑️ Mark tasks as completed
 - 📊 Task summary (Total / Done / Remaining)
-- 🎨 Clean UI with Bootstrap styling
+- 🎨 Clean and Responsive UI with Bootstrap styling
 
 ---
 
 ## 📸 Screenshot
 
-<img width="1635" height="817" alt="Screenshot 2025-08-20 173607" src="https://github.com/user-attachments/assets/93205fc6-b827-45b1-9bd5-4422d70cfcd8" />
+<img width="997" height="711" alt="image" src="https://github.com/user-attachments/assets/c38e51dc-baf9-4158-94cb-dc87fe7fc647" />
 
 ---
 
